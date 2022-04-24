@@ -16,6 +16,7 @@
 ## Font
 
     #147A8D, #5A0E1D
+    #52848D, #7A4F58
 
 ## Background
     
@@ -24,6 +25,7 @@
 ## Icon
 
     #5A0E1D, #147A8D
+    #7A4F58, #52848D
 
 ## 1
 ![1/cover.png](1/cover.png)
